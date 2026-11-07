@@ -24,7 +24,7 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 This Code of Conduct applies within all project spaces, and also when an individual is representing the project or its community in public spaces.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at <your-email@example.com>. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at <Rimmer202@mail.ru>. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate.
 
 ## Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
