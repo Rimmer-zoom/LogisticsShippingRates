@@ -9,7 +9,7 @@ A simple web application that calculates shipping costs and delivery estimates f
 
 ## Getting Started
 1. Clone the repository:
-   `git clone https://github.com/<your-username>/shipping-calculator.git`
+   `git clone https://github.com/<Rimmer-zoom>/shipping-calculator.git`
 2. Open the project folder and run the application following the instructions in the source files.
 
 ## Contributing
