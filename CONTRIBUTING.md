@@ -4,7 +4,7 @@ Thank you for your interest in contributing! Please follow these guidelines.
 
 ## How to Contribute
 1. **Fork** the repository.
-2. **Clone** your fork: `git clone https://github.com/<your-username>/shipping-calculator.git`
+2. **Clone** your fork: `git clone https://github.com/<Rimmer-zoom>/shipping-calculator.git`
 3. **Create a branch**: `git checkout -b feature/your-feature-name`
 4. **Make your changes** and keep them focused on one topic.
 5. **Commit** with a clear message: `git commit -m "Add short description of change"`
